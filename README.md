@@ -1,2 +1,2 @@
-# LearningReact
-A repository through my react journey
+# Travel Website
+Adventure Website
